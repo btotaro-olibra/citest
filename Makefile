@@ -1,3 +1,2 @@
 all:
-    echo echo
-agfglkdajfg
+        echo test
